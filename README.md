@@ -1,9 +1,9 @@
-cheshirenet
+Cheshirenet
 ===========
 
 The nework without a medium is like a smile without a cat
 
-What is this thing all about
+What is this thing all about-
 ----------------------------
 
 Have you noticed than revolution made by Tim Berners-Lee have  somehow reversed revolution made by Gutenberg?
@@ -26,7 +26,7 @@ is protected by digital signature to ensure that in was not changed in the way.
 
 Of course, if internet is available, we would use it for syncronization. It is also planned to utilize torrent-like protocol to speed-up synchronization if more than two nodes can see each other.
 
-Basic principles of CheshireNet
+Basic principles of CheshireNet-
 --------------------------------
 
 1. Every body has full control of the node one owns. This makes it differnet for example from FreeNet. 
